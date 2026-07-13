@@ -1,0 +1,154 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/QtTelecomClient_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Programming/testovoe_kalibri/client",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Programming/testovoe_kalibri/client/CMakeLists.txt",
+		"C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/.qtcreator/cmake-helper/package-manager.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Core/QtInstallPaths.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6Network/Qt6NetworkPlugins.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCXXCompilerFlag.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Programs/QT/6.5.2/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Programming/testovoe_kalibri",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/QtTelecomClient_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QtTelecomClient_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Programming/testovoe_kalibri/client/device_client.h",
+			"Mu",
+			"EWIEGA46WW/moc_device_client.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/QtTelecomClient_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/QtTelecomClient_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Programs/QT/6.5.2/mingw_64/include/QtCore",
+		"D:/Programs/QT/6.5.2/mingw_64/include",
+		"D:/Programs/QT/6.5.2/mingw_64/mkspecs/win32-g++",
+		"D:/Programs/QT/6.5.2/mingw_64/include/QtNetwork",
+		"D:/Programs/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"D:/Programs/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"D:/Programs/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"D:/Programs/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"D:/Programs/QT/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"D:/Programs/QT/Tools/mingw1120_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/Programs/QT/Tools/mingw1120_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/QtTelecomClient_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/CMakeFiles/QtTelecomClient_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Programs/QT/6.5.2/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "C:/Programming/testovoe_kalibri/build/Desktop_Qt_6_5_2_MinGW_64_bit_Release/client/CMakeFiles/QtTelecomClient_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Programming/testovoe_kalibri/client/device_client.cpp",
+			"Mu",
+			null
+		],
+		[ "C:/Programming/testovoe_kalibri/client/main.cpp", "Mu", null ]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
